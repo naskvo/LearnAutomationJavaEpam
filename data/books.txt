@@ -1,0 +1,6 @@
+5
+1; Harry Potter and the Philosopher's Stone; J. K. Rowling; Bloomsbury; 1997; 223; 8.95; Hardcover
+2; A Man Called Ove; Fredrik Backman; Washington Square Press; 2015; 337; 6.65; Paperback
+3; Harry Potter and the Chamber of Secrets; J. K. Rowling; Bloomsbury; 1998; 251; 8.10; Hardcover
+4; Fried Green Tomatoes at the Whistle Stop Cafe; Fannie Flagg; Ballantine Books; 2016; 416; 4.06; Paperback
+5; Fantastic Beasts and Where to Find Them; J. K. Rowling; Arthur A. Levine Books; 2017; 128; 4.69; Hardcover
