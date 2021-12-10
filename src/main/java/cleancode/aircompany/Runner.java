@@ -31,10 +31,10 @@ public class Runner {
         Airport militaryAirport = new Airport(airport.getMilitaryPlanes());
         Airport passengerAirport = new Airport(airport.getPassengerPlanes());
         System.out.println("Military airport sorted by max distance: " + militaryAirport
-                .sortByMaxDistance()
+                .sortByMaxDistanceAsc()
                 .toString());
         System.out.println("Passenger airport sorted by max speed: " + passengerAirport
-                .sortByMaxSpeed()
+                .sortByMaxSpeedAsc()
                 .toString());
         System.out.println("Plane with max passenger capacity: " + passengerAirport.getPassengerPlaneWithMaxPassengersCapacity());
     }
